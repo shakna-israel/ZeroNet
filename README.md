@@ -1,5 +1,7 @@
 # ZeroNet
 
+[![Build Status](https://travis-ci.org/shakna-israel/ZeroNet.svg)](https://travis-ci.org/shakna-israel/ZeroNet)
+
 Decentralized websites using Bitcoin crypto and the BitTorrent network - http://zeronet.io
 
 
