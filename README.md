@@ -2,6 +2,8 @@
 
 Latest Development Build: [![Build Status](https://travis-ci.org/shakna-israel/ZeroNet.svg)](https://travis-ci.org/shakna-israel/ZeroNet)
 
+Code Health: [![Code Health](https://landscape.io/github/shakna-israel/ZeroNet/master/landscape.svg?style=flat)](https://landscape.io/github/shakna-israel/ZeroNet/master)
+
 Decentralized websites using Bitcoin crypto and the BitTorrent network - http://zeronet.io
 
 
